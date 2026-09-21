@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chatbase-dev.github.io/sitemap.xml
